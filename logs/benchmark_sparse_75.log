@@ -1,0 +1,838 @@
+8: Tue Feb 14 18:06:02 UTC 2023
+n = 8 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 9 bits
+checksum: efd5a3967001537c
+inp size: 195
+start n = 8
+weight 0 new minterms 594
+widening hash space from 4 to 11 bits
+weight 1 new minterms 600
+widening hash space from 9 to 11 bits
+weight 2 new minterms 205
+weight 3 new minterms 16
+weight 4 new minterms 0
+checksum: 12106d8e5f7f778a
+out size: 160
+elapsed RAM: 0.00 GiB = 32768 bytes
+elapsed TIME: 0.000 hours = 323729 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 8 75"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3252
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 144
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+9: Tue Feb 14 18:06:02 UTC 2023
+n = 9 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 10 bits
+checksum: c3294f04dd2287bf
+inp size: 385
+start n = 9
+weight 0 new minterms 1311
+widening hash space from 4 to 12 bits
+weight 1 new minterms 1520
+widening hash space from 10 to 12 bits
+weight 2 new minterms 624
+weight 3 new minterms 61
+weight 4 new minterms 1
+weight 5 new minterms 0
+checksum: e318878b464557c9
+out size: 418
+elapsed RAM: 0.00 GiB = 65536 bytes
+elapsed TIME: 0.000 hours = 840864 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 9 75"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3388
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 165
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+10: Tue Feb 14 18:06:02 UTC 2023
+n = 10 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 11 bits
+checksum: 4dbd0dba71b9e64f
+inp size: 753
+start n = 10
+weight 0 new minterms 2791
+widening hash space from 4 to 13 bits
+weight 1 new minterms 3449
+widening hash space from 11 to 13 bits
+weight 2 new minterms 1389
+weight 3 new minterms 112
+weight 4 new minterms 1
+weight 5 new minterms 0
+checksum: f5e116af14012736
+out size: 1018
+elapsed RAM: 0.00 GiB = 131072 bytes
+elapsed TIME: 0.000 hours = 1905014 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 10 75"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3396
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 199
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+11: Tue Feb 14 18:06:02 UTC 2023
+n = 11 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 12 bits
+checksum: 198c26a26908fb07
+inp size: 1525
+start n = 11
+weight 0 new minterms 6313
+widening hash space from 4 to 14 bits
+weight 1 new minterms 8957
+widening hash space from 12 to 15 bits
+weight 2 new minterms 4310
+weight 3 new minterms 441
+weight 4 new minterms 4
+weight 5 new minterms 0
+checksum: c2fe3d472bf6d1b9
+out size: 2487
+elapsed RAM: 0.00 GiB = 393216 bytes
+elapsed TIME: 0.000 hours = 4913601 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 11 75"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 308
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+12: Tue Feb 14 18:06:02 UTC 2023
+n = 12 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 13 bits
+checksum: 74f867dc70e18e3e
+inp size: 3070
+start n = 12
+weight 0 new minterms 13905
+widening hash space from 4 to 15 bits
+weight 1 new minterms 21845
+widening hash space from 13 to 16 bits
+weight 2 new minterms 11850
+weight 3 new minterms 1404
+weight 4 new minterms 11
+weight 5 new minterms 0
+checksum: b809798b5af6c632
+out size: 6008
+elapsed RAM: 0.00 GiB = 786432 bytes
+elapsed TIME: 0.000 hours = 11464651 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 12 75"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4440
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 548
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+13: Tue Feb 14 18:06:02 UTC 2023
+n = 13 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 14 bits
+checksum: fba03cc4dc25030e
+inp size: 6116
+start n = 13
+weight 0 new minterms 29826
+widening hash space from 4 to 16 bits
+weight 1 new minterms 50481
+widening hash space from 14 to 17 bits
+weight 2 new minterms 29524
+weight 3 new minterms 3735
+weight 4 new minterms 28
+weight 5 new minterms 0
+checksum: 14056250f4e69077
+out size: 14228
+elapsed RAM: 0.00 GiB = 1572864 bytes
+elapsed TIME: 0.000 hours = 26662211 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 13 75"
+	User time (seconds): 0.02
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 6164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1080
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+14: Tue Feb 14 18:06:02 UTC 2023
+n = 14 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 15 bits
+checksum: 0bef2509f53db2f7
+inp size: 12273
+start n = 14
+weight 0 new minterms 64540
+widening hash space from 4 to 17 bits
+weight 1 new minterms 118691
+widening hash space from 15 to 18 bits
+weight 2 new minterms 76244
+widening hash space from 17 to 18 bits
+weight 3 new minterms 10663
+weight 4 new minterms 97
+weight 5 new minterms 0
+checksum: 08c16c0979a30f42
+out size: 34031
+elapsed RAM: 0.00 GiB = 4194304 bytes
+elapsed TIME: 0.000 hours = 59043808 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 14 75"
+	User time (seconds): 0.05
+	System time (seconds): 0.00
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10288
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2848
+	Voluntary context switches: 0
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+15: Tue Feb 14 18:06:02 UTC 2023
+n = 15 density = 75%
+bitslice alg needs RAM: 0.00 GiB
+widening hash space from 4 to 16 bits
+checksum: ef8c1ecb9bd61e76
+inp size: 24570
+start n = 15
+weight 0 new minterms 138440
+widening hash space from 4 to 19 bits
+weight 1 new minterms 274001
+widening hash space from 16 to 20 bits
+weight 2 new minterms 190375
+weight 3 new minterms 29491
+weight 4 new minterms 350
+weight 5 new minterms 0
+checksum: d330a5d45a853d25
+out size: 79964
+elapsed RAM: 0.01 GiB = 12582912 bytes
+elapsed TIME: 0.000 hours = 177222686 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 15 75"
+	User time (seconds): 0.17
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7198
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+16: Tue Feb 14 18:06:03 UTC 2023
+n = 16 density = 75%
+bitslice alg needs RAM: 0.01 GiB
+widening hash space from 4 to 17 bits
+checksum: 0a176ba4e8bf93e2
+inp size: 49053
+start n = 16
+weight 0 new minterms 294007
+widening hash space from 4 to 20 bits
+weight 1 new minterms 619235
+widening hash space from 17 to 21 bits
+weight 2 new minterms 456499
+weight 3 new minterms 74367
+weight 4 new minterms 912
+weight 5 new minterms 0
+checksum: 3c426aa0782f3b6c
+out size: 185899
+elapsed RAM: 0.03 GiB = 25165824 bytes
+elapsed TIME: 0.000 hours = 621775892 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 16 75"
+	User time (seconds): 0.59
+	System time (seconds): 0.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 46548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15210
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+17: Tue Feb 14 18:06:03 UTC 2023
+n = 17 density = 75%
+bitslice alg needs RAM: 0.02 GiB
+widening hash space from 4 to 18 bits
+checksum: f443bb4155efca9c
+inp size: 98314
+start n = 17
+weight 0 new minterms 627109
+widening hash space from 4 to 21 bits
+weight 1 new minterms 1412981
+widening hash space from 18 to 22 bits
+weight 2 new minterms 1122191
+widening hash space from 21 to 22 bits
+weight 3 new minterms 198764
+weight 4 new minterms 2715
+weight 5 new minterms 0
+checksum: c6d062de93bfc402
+out size: 433300
+elapsed RAM: 0.07 GiB = 67108864 bytes
+elapsed TIME: 0.000 hours = 1678015320 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 17 75"
+	User time (seconds): 1.63
+	System time (seconds): 0.06
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 115088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 42390
+	Voluntary context switches: 1
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+18: Tue Feb 14 18:06:05 UTC 2023
+n = 18 density = 75%
+bitslice alg needs RAM: 0.05 GiB
+widening hash space from 4 to 19 bits
+checksum: 1bf6e17a8ed5efbd
+inp size: 196605
+start n = 18
+weight 0 new minterms 1327166
+widening hash space from 4 to 22 bits
+weight 1 new minterms 3173270
+widening hash space from 19 to 23 bits
+weight 2 new minterms 2679395
+widening hash space from 22 to 23 bits
+weight 3 new minterms 504161
+weight 4 new minterms 7280
+weight 5 new minterms 1
+weight 6 new minterms 0
+checksum: e81c5db4ca75cf34
+out size: 999487
+elapsed RAM: 0.13 GiB = 134217728 bytes
+elapsed TIME: 0.001 hours = 5136325759 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 18 75"
+	User time (seconds): 4.97
+	System time (seconds): 0.18
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 230584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 88285
+	Voluntary context switches: 1
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+19: Tue Feb 14 18:06:10 UTC 2023
+n = 19 density = 75%
+bitslice alg needs RAM: 0.15 GiB
+widening hash space from 4 to 20 bits
+checksum: eddb212dace6b1a4
+inp size: 393210
+start n = 19
+weight 0 new minterms 2801702
+widening hash space from 4 to 23 bits
+weight 1 new minterms 7092776
+widening hash space from 20 to 24 bits
+weight 2 new minterms 6360780
+widening hash space from 23 to 24 bits
+weight 3 new minterms 1272938
+weight 4 new minterms 19259
+weight 5 new minterms 1
+weight 6 new minterms 0
+checksum: 32e48c03c76f50e7
+out size: 2299856
+elapsed RAM: 0.27 GiB = 268435456 bytes
+elapsed TIME: 0.004 hours = 13270726893 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 19 75"
+	User time (seconds): 12.85
+	System time (seconds): 0.45
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:13.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 481984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 200070
+	Voluntary context switches: 1
+	Involuntary context switches: 24
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+20: Tue Feb 14 18:06:23 UTC 2023
+n = 20 density = 75%
+bitslice alg needs RAM: 0.44 GiB
+widening hash space from 4 to 21 bits
+checksum: 8f34634ab7b9ef7c
+inp size: 786316
+start n = 20
+weight 0 new minterms 5896391
+widening hash space from 4 to 24 bits
+weight 1 new minterms 15749534
+widening hash space from 21 to 25 bits
+weight 2 new minterms 14942768
+widening hash space from 24 to 25 bits
+weight 3 new minterms 3174454
+weight 4 new minterms 50787
+weight 5 new minterms 5
+weight 6 new minterms 0
+checksum: ef3db362d37c4b11
+out size: 5264744
+elapsed RAM: 0.54 GiB = 536870912 bytes
+elapsed TIME: 0.009 hours = 34087582578 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 20 75"
+	User time (seconds): 33.33
+	System time (seconds): 0.81
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:34.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 976856
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 442087
+	Voluntary context switches: 1
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+21: Tue Feb 14 18:06:57 UTC 2023
+n = 21 density = 75%
+bitslice alg needs RAM: 1.31 GiB
+widening hash space from 4 to 22 bits
+checksum: 5fc03266c9546fa9
+inp size: 1572445
+start n = 21
+weight 0 new minterms 12379001
+widening hash space from 4 to 25 bits
+weight 1 new minterms 34792792
+widening hash space from 22 to 27 bits
+weight 2 new minterms 34815502
+widening hash space from 25 to 27 bits
+weight 3 new minterms 7821980
+weight 4 new minterms 132420
+weight 5 new minterms 12
+weight 6 new minterms 0
+checksum: 0c946472ed497a8f
+out size: 11999925
+elapsed RAM: 2.15 GiB = 2147483648 bytes
+elapsed TIME: 0.021 hours = 75281636404 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 21 75"
+	User time (seconds): 72.87
+	System time (seconds): 2.53
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:15.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3200856
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1398941
+	Voluntary context switches: 1
+	Involuntary context switches: 82
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+22: Tue Feb 14 18:08:13 UTC 2023
+n = 22 density = 75%
+bitslice alg needs RAM: 3.92 GiB
+widening hash space from 4 to 23 bits
+checksum: 80ce9c723762b6b1
+inp size: 3145186
+start n = 22
+weight 0 new minterms 25942997
+widening hash space from 4 to 26 bits
+weight 1 new minterms 76587582
+widening hash space from 23 to 28 bits
+weight 2 new minterms 80731301
+widening hash space from 26 to 28 bits
+weight 3 new minterms 19179022
+weight 4 new minterms 345468
+weight 5 new minterms 42
+weight 6 new minterms 0
+checksum: b0e425c6b7a0c769
+out size: 27284186
+elapsed RAM: 4.29 GiB = 4294967296 bytes
+elapsed TIME: 0.047 hours = 170013543742 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 22 75"
+	User time (seconds): 165.19
+	System time (seconds): 5.15
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:50.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 6507520
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2976672
+	Voluntary context switches: 1
+	Involuntary context switches: 61
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+23: Tue Feb 14 18:27:34 UTC 2023
+n = 23 density = 75%
+bitslice alg needs RAM: 11.77 GiB
+widening hash space from 4 to 24 bits
+checksum: 01ae8a85cbb54697
+inp size: 6289705
+start n = 23
+weight 0 new minterms 54234913
+widening hash space from 4 to 27 bits
+weight 1 new minterms 167713655
+widening hash space from 24 to 29 bits
+weight 2 new minterms 185586819
+widening hash space from 27 to 29 bits
+weight 3 new minterms 46389148
+weight 4 new minterms 881646
+weight 5 new minterms 131
+weight 6 new minterms 0
+checksum: e42e1b2b48820f8f
+out size: 61838574
+elapsed RAM: 8.59 GiB = 8589934592 bytes
+elapsed TIME: 0.139 hours = 502092423188 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 23 75"
+	User time (seconds): 491.77
+	System time (seconds): 10.81
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:22.64
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 13248840
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6213164
+	Voluntary context switches: 1
+	Involuntary context switches: 998
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+24: Tue Feb 14 18:35:57 UTC 2023
+n = 24 density = 75%
+bitslice alg needs RAM: 35.30 GiB
+widening hash space from 4 to 25 bits
+checksum: d255a395aa262340
+inp size: 12580038
+start n = 24
+weight 0 new minterms 113196286
+widening hash space from 4 to 28 bits
+weight 1 new minterms 365967947
+widening hash space from 25 to 30 bits
+weight 2 new minterms 424236144
+widening hash space from 28 to 30 bits
+weight 3 new minterms 111309619
+weight 4 new minterms 2224287
+weight 5 new minterms 353
+weight 6 new minterms 0
+checksum: 750d780f0f89ae11
+out size: 139838274
+elapsed RAM: 17.18 GiB = 17179869184 bytes
+elapsed TIME: 0.334 hours = 1201078623318 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 24 75"
+	User time (seconds): 1181.11
+	System time (seconds): 20.68
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 20:02.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27147984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13211730
+	Voluntary context switches: 1
+	Involuntary context switches: 1580
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+25: Tue Feb 14 18:55:59 UTC 2023
+n = 25 density = 75%
+bitslice alg needs RAM: 105.91 GiB
+widening hash space from 4 to 26 bits
+checksum: dff63084efc84959
+inp size: 25163784
+start n = 25
+weight 0 new minterms 235893923
+widening hash space from 4 to 29 bits
+weight 1 new minterms 796057610
+widening hash space from 26 to 31 bits
+weight 2 new minterms 965419495
+widening hash space from 29 to 31 bits
+widening hash space from 31 to 32 bits
+weight 3 new minterms 265800345
+weight 4 new minterms 5598380
+weight 5 new minterms 915
+weight 6 new minterms 0
+checksum: 82553699bc1b5c1e
+out size: 315616891
+elapsed RAM: 51.54 GiB = 51539607552 bytes
+elapsed TIME: 0.946 hours = 3407924571129 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 25 75"
+	User time (seconds): 3349.78
+	System time (seconds): 60.99
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 56:50.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 88329712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 35945785
+	Voluntary context switches: 1
+	Involuntary context switches: 2807
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+26: Tue Feb 14 19:52:50 UTC 2023
+n = 26 density = 75%
+bitslice alg needs RAM: 317.73 GiB
+widening hash space from 4 to 27 bits
+checksum: 7ce76a76160a238c
+inp size: 50329611
+start n = 26
+weight 0 new minterms 490698551
+widening hash space from 4 to 30 bits
+widening hash space from 30 to 31 bits
+weight 1 new minterms 1725039289
+widening hash space from 27 to 32 bits
+weight 2 new minterms 2183193708
+widening hash space from 31 to 33 bits
+weight 3 new minterms 628451068
+weight 4 new minterms 13867460
+weight 5 new minterms 2340
+weight 6 new minterms 0
+checksum: a6bc462a4e1ee389
+out size: 710382358
+elapsed RAM: 103.08 GiB = 103079215104 bytes
+elapsed TIME: 1.939 hours = 6981942472199 nanoseconds
+	Command being timed: "./benchmark_sparseqmc 26 75"
+	User time (seconds): 6866.88
+	System time (seconds): 120.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:56:27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 164753820
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 74307394
+	Voluntary context switches: 1
+	Involuntary context switches: 10364
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+

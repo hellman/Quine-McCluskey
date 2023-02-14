@@ -1,0 +1,550 @@
+8: Tue Feb 14 17:58:09 UTC 2023
+n = 8 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: 3aed45773374b196
+inp size: 253
+start n = 8
+checksum: aa4247610010161e
+out size: 27
+elapsed RAM: 0.00 GiB = 864 bytes
+elapsed TIME: 0.000 hours = 28260 nanoseconds
+	Command being timed: "./benchmark_denseqmc 8 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3184
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 126
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+9: Tue Feb 14 17:58:09 UTC 2023
+n = 9 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: 0c4a86893f902f25
+inp size: 503
+start n = 9
+checksum: 379b992fd5067ed2
+out size: 148
+elapsed RAM: 0.00 GiB = 2592 bytes
+elapsed TIME: 0.000 hours = 45171 nanoseconds
+	Command being timed: "./benchmark_denseqmc 9 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 50%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 127
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+10: Tue Feb 14 17:58:09 UTC 2023
+n = 10 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: 74768d1b3b110aa9
+inp size: 1009
+start n = 10
+checksum: 43e87b4c3360e40b
+out size: 279
+elapsed RAM: 0.00 GiB = 7776 bytes
+elapsed TIME: 0.000 hours = 80073 nanoseconds
+	Command being timed: "./benchmark_denseqmc 10 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 50%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3192
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 129
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+11: Tue Feb 14 17:58:09 UTC 2023
+n = 11 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: 7a1d7f6e340fd442
+inp size: 2022
+start n = 11
+checksum: 5c2f539b3d1eaf23
+out size: 819
+elapsed RAM: 0.00 GiB = 23328 bytes
+elapsed TIME: 0.000 hours = 194366 nanoseconds
+	Command being timed: "./benchmark_denseqmc 11 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 131
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+12: Tue Feb 14 17:58:09 UTC 2023
+n = 12 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: c1eb070a51e2ae74
+inp size: 4054
+start n = 12
+checksum: b0a0f8c813bf3333
+out size: 2241
+elapsed RAM: 0.00 GiB = 69984 bytes
+elapsed TIME: 0.000 hours = 470284 nanoseconds
+	Command being timed: "./benchmark_denseqmc 12 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3176
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 144
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+13: Tue Feb 14 17:58:09 UTC 2023
+n = 13 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: 9dcd3e7ce7a4d718
+inp size: 8123
+start n = 13
+checksum: 4772ce6517ab0cfa
+out size: 5780
+elapsed RAM: 0.00 GiB = 209952 bytes
+elapsed TIME: 0.000 hours = 1134592 nanoseconds
+	Command being timed: "./benchmark_denseqmc 13 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3156
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 178
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+14: Tue Feb 14 17:58:09 UTC 2023
+n = 14 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: 7dbda7fd48bf6710
+inp size: 16226
+start n = 14
+checksum: 689df16a7cd97cb6
+out size: 22484
+elapsed RAM: 0.00 GiB = 629856 bytes
+elapsed TIME: 0.000 hours = 3667356 nanoseconds
+	Command being timed: "./benchmark_denseqmc 14 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3316
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 281
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+15: Tue Feb 14 17:58:09 UTC 2023
+n = 15 density = 99%
+bitslice alg needs RAM: 0.00 GiB
+checksum: 363eaab69212acb8
+inp size: 32458
+start n = 15
+checksum: 03f6a7f50770a220
+out size: 74732
+elapsed RAM: 0.00 GiB = 1889568 bytes
+elapsed TIME: 0.000 hours = 9753791 nanoseconds
+	Command being timed: "./benchmark_denseqmc 15 99"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4680
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 589
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+16: Tue Feb 14 17:58:09 UTC 2023
+n = 16 density = 99%
+bitslice alg needs RAM: 0.01 GiB
+checksum: 363ef6b27bfd5433
+inp size: 64893
+start n = 16
+checksum: d9fb8f046574625c
+out size: 237728
+elapsed RAM: 0.01 GiB = 5668704 bytes
+elapsed TIME: 0.000 hours = 24335642 nanoseconds
+	Command being timed: "./benchmark_denseqmc 16 99"
+	User time (seconds): 0.02
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8376
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1511
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+17: Tue Feb 14 17:58:09 UTC 2023
+n = 17 density = 99%
+bitslice alg needs RAM: 0.02 GiB
+checksum: 95f8612751742574
+inp size: 129791
+start n = 17
+checksum: cc062039d578d1a3
+out size: 721245
+elapsed RAM: 0.02 GiB = 17006112 bytes
+elapsed TIME: 0.000 hours = 83600951 nanoseconds
+	Command being timed: "./benchmark_denseqmc 17 99"
+	User time (seconds): 0.08
+	System time (seconds): 0.00
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19428
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4278
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+18: Tue Feb 14 17:58:09 UTC 2023
+n = 18 density = 99%
+bitslice alg needs RAM: 0.05 GiB
+checksum: e754e2ad7788c41c
+inp size: 259501
+start n = 18
+checksum: 3b2e2033cbbf1183
+out size: 2236683
+elapsed RAM: 0.05 GiB = 51018336 bytes
+elapsed TIME: 0.000 hours = 313807158 nanoseconds
+	Command being timed: "./benchmark_denseqmc 18 99"
+	User time (seconds): 0.31
+	System time (seconds): 0.02
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12582
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+19: Tue Feb 14 17:58:09 UTC 2023
+n = 19 density = 99%
+bitslice alg needs RAM: 0.15 GiB
+checksum: 021d1d34cf167927
+inp size: 519057
+start n = 19
+checksum: 83c4108dd6f569b5
+out size: 6625835
+elapsed RAM: 0.15 GiB = 153055008 bytes
+elapsed TIME: 0.000 hours = 923114730 nanoseconds
+	Command being timed: "./benchmark_denseqmc 19 99"
+	User time (seconds): 0.92
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 152248
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 37493
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+20: Tue Feb 14 17:58:10 UTC 2023
+n = 20 density = 99%
+bitslice alg needs RAM: 0.44 GiB
+checksum: be0f3049e4926bed
+inp size: 1038069
+start n = 20
+checksum: 65d29257b0eebf12
+out size: 19729925
+elapsed RAM: 0.46 GiB = 459165024 bytes
+elapsed TIME: 0.001 hours = 3020122226 nanoseconds
+	Command being timed: "./benchmark_denseqmc 20 99"
+	User time (seconds): 3.04
+	System time (seconds): 0.22
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 451296
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 112227
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+21: Tue Feb 14 17:58:14 UTC 2023
+n = 21 density = 99%
+bitslice alg needs RAM: 1.31 GiB
+checksum: 3b24931e3398c2c5
+inp size: 2075996
+start n = 21
+checksum: f4675dceb902d012
+out size: 57645030
+elapsed RAM: 1.38 GiB = 1377495072 bytes
+elapsed TIME: 0.003 hours = 9277133715 nanoseconds
+	Command being timed: "./benchmark_denseqmc 21 99"
+	User time (seconds): 9.34
+	System time (seconds): 0.59
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.94
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1348048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 336427
+	Voluntary context switches: 1
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+22: Tue Feb 14 17:58:23 UTC 2023
+n = 22 density = 99%
+bitslice alg needs RAM: 3.92 GiB
+checksum: 071ce4e39cb1f71a
+inp size: 4152193
+start n = 22
+checksum: ecf2d4aa47d5bd8f
+out size: 165499127
+elapsed RAM: 4.13 GiB = 4132485216 bytes
+elapsed TIME: 0.007 hours = 25191011897 nanoseconds
+	Command being timed: "./benchmark_denseqmc 22 99"
+	User time (seconds): 25.39
+	System time (seconds): 1.37
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4038460
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1009035
+	Voluntary context switches: 1
+	Involuntary context switches: 26
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+23: Tue Feb 14 17:58:50 UTC 2023
+n = 23 density = 99%
+bitslice alg needs RAM: 11.77 GiB
+checksum: 466cc2b4c8ebdc48
+inp size: 8304387
+start n = 23
+checksum: a10d66744f28963d
+out size: 470434403
+elapsed RAM: 12.40 GiB = 12397455648 bytes
+elapsed TIME: 0.020 hours = 73839845887 nanoseconds
+	Command being timed: "./benchmark_denseqmc 23 99"
+	User time (seconds): 74.35
+	System time (seconds): 3.62
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:17.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12109820
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3026849
+	Voluntary context switches: 1
+	Involuntary context switches: 121
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+24: Tue Feb 14 18:00:08 UTC 2023
+n = 24 density = 99%
+bitslice alg needs RAM: 35.30 GiB
+checksum: 28ac3a83408bb7e6
+inp size: 16609515
+start n = 24
