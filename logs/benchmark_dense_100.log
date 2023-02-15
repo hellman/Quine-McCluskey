@@ -650,3 +650,31 @@ bitslice alg needs RAM: 953.20 GiB
 checksum: 0ecd28921800015c
 inp size: 134217728
 start n = 27
+checksum: 000006ef79097fb9
+out size: 1
+elapsed RAM: 1004.19 GiB = 1004193907488 bytes
+elapsed TIME: 1.101 hours = 3965725223910 nanoseconds
+	Command being timed: "./benchmark_denseqmc 27 100"
+	User time (seconds): 4008.69
+	System time (seconds): 254.27
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:11:03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 980660800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 245164653
+	Voluntary context switches: 1
+	Involuntary context switches: 8805
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+

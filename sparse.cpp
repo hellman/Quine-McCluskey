@@ -161,10 +161,11 @@ struct HashSet {
     void mark(HS_WORD x) {
         uint64_t idx = hash(x) & mask;
         HS_WORD val = x | HS_VALUE;
+        HS_WORD marked_val = x | HS_DEL_MARK;
         // printf("mark %016lx %016lx\n", x, idx);
         while (space[idx] != 0) {
-            if (space[idx] == val) {
-                space[idx] = HS_DEL_MARK | val;
+            if (space[idx] == val || space[idx] == marked_val) {
+                space[idx] = marked_val;
                 return;
             }
             idx = (idx + 1) & mask;
