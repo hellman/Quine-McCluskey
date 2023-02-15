@@ -4,7 +4,7 @@ This repository contains an optimized bit-slice implementation of the Quine-McCl
 
 **Important:** as the second part of the QMC method is not covered, the output formula will not directly have minimal size. Minimization requires solving a hard SetCover problem (NP-Complete), typically of a large size, and thus is feasible only for smaller values of `n`. Consider the [optimodel](https://github.com/hellman/optimodel) tool which includes some algorithms (integer optimization, heuristic greedy variants) to do that (for CNF/DNF/MILP models).
 
-<img src="./benchmark.png" alt="Benchmark summary" height="500">
+<img src="./benchmark.png" alt="Benchmark summary" height="400">
 
 **License:** MIT
 
