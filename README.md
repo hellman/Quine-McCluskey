@@ -1,4 +1,4 @@
-# DenseQMC: Bit-slice implementation of the Quine-McCluskey algorithm
+# DenseQMC: an efficient bit-slice implementation of the Quine-McCluskey algorithm
 
 This repository contains an optimized bit-slice implementation of the Quine-McCluskey algorithm (for dense functions), as well as optimize classic Quine-McCluskey algorithm (for sparse functions). It covers the first step of the QMC algorithm - finding all prime implicants of the function (patterns like `01*11**0*` with maximal number of stars, fully included in the described set). It is used to obtain small DNF or CNF formulas for a given Boolean function.
 
