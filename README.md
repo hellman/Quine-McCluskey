@@ -2,7 +2,7 @@
 
 This repository contains an optimized bit-slice implementation of the Quine-McCluskey algorithm (for dense functions), as well as optimize classic Quine-McCluskey algorithm (for sparse functions). It covers the first step of the QMC algorithm - finding all prime implicants of the function (patterns like `01*11**0*` with maximal number of stars, fully included in the described set). It is used to obtain small DNF or CNF formulas for a given Boolean function.
 
-**Important:** as the second part of the QMC method is not covered, the output formula will not directly have minimal size. Minimization requires solving a hard SetCover problem (NP-Complete), typically of a large size, and thus is feasible only for smaller values of `n`. Consider the [optimodel](https://github.com/hellman/optimodel) tool which includes some algorithms (integer optimization, heuristic greedy variants) to do that (for CNF/DNF/MILP models).
+**Important:** as the second part of the QMC method is not covered, the output formula will not directly have minimal size. Minimization requires solving a hard SetCover problem (NP-Complete), typically of a large size, and thus is feasible only for smaller values of `n`. Consider the [optimodel](https://github.com/hellman/optimodel) tool which includes some algorithms (integer optimization, heuristic greedy variants) to do that (for CNF/DNF/MILP models), or the standard [espresso](https://en.wikipedia.org/wiki/Espresso_heuristic_logic_minimizer) algorithm for very sparse functions.
 
 <img src="./benchmark.png" alt="Benchmark summary" height="400">
 
