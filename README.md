@@ -1,6 +1,6 @@
 # DenseQMC: an efficient bit-slice implementation of the Quine-McCluskey algorithm
 
-This repository contains an optimized bit-slice implementation of the Quine-McCluskey algorithm (for dense functions), as well as optimize classic Quine-McCluskey algorithm (for sparse functions). It covers the first step of the QMC algorithm - finding all prime implicants of the function (patterns like `01*11**0*` with maximal number of stars, fully included in the described set). It is used to obtain small DNF or CNF formulas for a given Boolean function.
+This repository contains an optimized bit-slice implementation of the Quine-McCluskey algorithm (for dense functions), as well as optimize classic Quine-McCluskey algorithm (for sparse functions). It covers the first step of the QMC algorithm - finding all prime implicants of the function (patterns like `01*11**0*` with maximal number of stars, fully included in the described set). In other words, code in this repository computes the [Blake canonical form](https://en.wikipedia.org/wiki/Blake_canonical_form) of a Boolean function. It is used to obtain small DNF or CNF formulas.
 
 **Important:** as the second part of the QMC method is not covered, the output formula will not directly have minimal size. Minimization requires solving a hard SetCover problem (NP-Complete), typically of a large size, and thus is feasible only for smaller values of `n`. Consider the [optimodel](https://github.com/hellman/optimodel) tool which includes some algorithms (integer optimization, heuristic greedy variants) to do that (for CNF/DNF/MILP models), or the standard [espresso](https://en.wikipedia.org/wiki/Espresso_heuristic_logic_minimizer) algorithm for very sparse functions.
 
@@ -31,8 +31,8 @@ $ ./sparseqmcext <file.in> [file.out]
 The input file has the following format:
 - The first line should contain the format letter and the dimension $n$:
   `d` - usual Quine-McCluskey (DNF mode)
-  `c` - complement the input set (CNF mode)
-- Each consequent line should consist of a bitstring of length $n$, containing only ASCII '0' or '1' characters.
+  `c` - complement the input set and negate variables (CNF mode)
+- Each consequent line should consist of a bitstring of length $n$, containing only ASCII '0' or '1' characters. The vector corresponds to a preimage of 1 in the DNF mode, or to a preimage of 0 in the CNF mode.
 
 Example:
 
@@ -48,13 +48,12 @@ d 5
 The output file (stdout if not provided) follows the DIMACS format (adapted to the DNF case), with 0 instead of the actual number of clauses due to implementation issues. For example:
 
 ```
-p dnf 3 0
--1 -2 -3 0
-1 3 0
-2 3 0
+p dnf 5 0
+-1 -2 -4 -5 0
+-1 -3 -5 0
 ```
 
-Each line (after the header) defines a single clause by specifying variable index (1-based) and variable negation by index negation. E.g. -2 means (NOT x2) and 3 means (x3). The line is finished by the 0 symbol as the separator. The example above describes the DNF formula $x_1'x_2'x_3' \lor x_1x_3 \lor x_2x_3$.
+Each line (after the header) defines a single clause by specifying variable index (1-based) and variable negation by index negation. E.g. -2 means (NOT x2) and 3 means (x3). The line is finished by the 0 symbol as the separator. The example above describes the DNF formula $x_1'x_2'x_4'x_5' \lor x_1'x_3'x_5'$.
 
 Running example:
 
